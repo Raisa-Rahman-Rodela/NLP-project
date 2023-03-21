@@ -3,7 +3,9 @@ Project title: Detection of Anti-social comments from social media platform and 
 
 Group Number: 5
 
-Member: Raisa Rahman Rodela, ID: 19301011
+Member: Raisa Rahman Rodela
+ID: 19301011
+mail: raisa.rahman.rodela@g.bracu.ac.bd
 
 Paper reference: Sarker, M. C., Hossain, M. F., Liza, F. T., Sakib, S. N., & Farooq, M. a. A. (2022). A Machine Learning Approach to Classify Anti-social Bengali Comments on Social Media. 2022 International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE). https://doi.org/10.1109/icaeee54957.2022.9836407
 

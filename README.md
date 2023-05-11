@@ -11,6 +11,6 @@ Paper reference: Sarker, M. C., Hossain, M. F., Liza, F. T., Sakib, S. N., & Far
 
 Slides link: https://docs.google.com/presentation/d/1I7hsCn_j4MPMhtCqOzBy2bGgYcV8_T8NUio8uI8Q8kk/edit#slide=id.g222031df890_0_844
 
-Youtube playlist link: https://www.youtube.com/playlist?list=PLjxFF0QSRwrxMEjMRG-7KtlPms3e4xR0b
+Youtube playlist link: https://www.youtube.com/playlist?list=PLjxFF0QSRwrxMEjMRG-7KtlPms3e4xR0b 
 
 Overleaf link: https://www.overleaf.com/3795513861wsdvtpgjhmdm
